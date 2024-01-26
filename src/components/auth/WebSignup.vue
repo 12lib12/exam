@@ -70,13 +70,13 @@
           >
             <div>
               <div class="border p-1 mt-2 rounded-circle">
-                <img
+                <!-- <img
                   src="../../assets/images/user.png"
                   class="rounded-circle"
                   width="140"
                   height="150"
                   style="object-fit: cover"
-                />
+                /> -->
               </div>
               <div class="text-center" style="transform: translateY(-24px)">
                 <i
