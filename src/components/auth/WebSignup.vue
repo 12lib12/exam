@@ -2,7 +2,7 @@
   <div class="container-fluid py-5" style="background-color: #f5f5f5">
     <div style="background-color: #ffffff" class="p-5 m-auto signup-form">
       <div class="text-center">
-        <img src="../../assets/images/Vector.png" alt="Logo" />
+        <!-- <img src="../../assets/images/Vector.png" alt="Logo" /> -->
         <h2 class="mt-4">Create your account</h2>
         <p>Enter your details to use all the app features.</p>
       </div>
